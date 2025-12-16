@@ -1,4 +1,4 @@
-# ic-core testing files
+# ic-core-testing files
 # Selenium Payment Automation
 
 ## Prerequisites
