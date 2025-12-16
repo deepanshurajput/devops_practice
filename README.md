@@ -7,4 +7,6 @@
 
 ## Setup
 ```bash
-git clone 
+git clone https://github.com/deepanshurajput/devops_practice.git
+cd devops_practice
+pip install -r requirements.txt
